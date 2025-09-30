@@ -1,2 +1,26 @@
-# huggingface-multimodal-streaming
-In this repo, we’ll explore how to move from standard generation to streaming generation using Hugging Face’s transformers library, with a focus on multimodal models like google/gemma-3-4b-it. We’ll also demonstrate how to integrate the process with Gradio for creating interactive web interfaces.
+# Streaming Multimodal Outputs with Hugging Face Transformers
+
+This repo contains a demo notebook and reference to my Medium article on how to **stream multimodal outputs** using Hugging Face Transformers, with a bonus **Gradio integration**.
+
+👉 Read the full article here: [How to Stream Multimodal Outputs with Hugging Face Transformers (Bonus: Gradio Integration)](https://medium.com/@youssef.ghaoui/how-to-stream-multimodal-outputs-with-hugging-face-transformers-b7fcd80c191f)
+
+## Contents
+- `multimodal_streaming_demo.ipynb` — runnable Jupyter notebook with example code  
+- Link to the detailed Medium article above  
+
+## Quick Start
+1. Clone the repo
+   ```bash
+   git clone https://github.com/<your-username>/huggingface-multimodal-streaming.git
+   cd huggingface-multimodal-streaming
+
+2. Open the notebook:
+
+   ```bash
+   jupyter notebook multimodal_streaming_demo.ipynb
+   ```
+3. Follow along with the article for explanations.
+
+## Author
+
+Created by [Youssef Ghaoui](https://www.linkedin.com/in/youssef-ghaoui/)

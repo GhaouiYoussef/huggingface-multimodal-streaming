@@ -11,7 +11,7 @@ This repo contains a demo notebook and reference to my Medium article on how to 
 ## Quick Start
 1. Clone the repo
    ```bash
-   git clone https://github.com/<your-username>/huggingface-multimodal-streaming.git
+   git clone https://github.com/GhaouiYoussef/huggingface-multimodal-streaming.git
    cd huggingface-multimodal-streaming
 
 2. Open the notebook:
